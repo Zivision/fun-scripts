@@ -1,0 +1,3 @@
+#+title: Fun Scripts
+
+A collection of goofy scripts
